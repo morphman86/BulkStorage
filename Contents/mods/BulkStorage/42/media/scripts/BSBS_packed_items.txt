@@ -1,0 +1,261 @@
+module BSBS
+{
+    imports
+    {
+        Base
+    }
+
+    item TinnedBeans_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedBolognese_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedCarrots2_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedChili_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedCornedBeef_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedCorn_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedFruitCocktail_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedFruitBeverage_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedMilk_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedMushroomSoup_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedPeaches_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedPeas_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedPineapple_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedPotato2_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedSardines_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item TinnedSoup_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item CannedTomato2_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item TunaTin_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item Dogfood_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item MysteryCan_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item DentedCan_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item WaterRationCan_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+    item Macandcheese_Carton
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 32.0,
+        Icon = Parcel_Large_Food,
+        WorldStaticModel = Parcel_Food_Large,
+        Tags = base:hasmetal;base:ignorezombiedensity,
+        DoubleClickRecipe = OpenCarton12OfCannedFood,
+    }
+
+}
