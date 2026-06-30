@@ -2,6 +2,7 @@ name=Bulk Storage
 poster=poster.png
 description=More options to pack things into boxes and cartons, for easier transport and long-term storage
 id=BS_BulkStorage
+author=BitterSwede
 icon=icon.png
 url=
 modversion=1.0.0
