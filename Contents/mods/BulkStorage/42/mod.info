@@ -7,5 +7,6 @@ icon=icon.png
 url=https://github.com/morphman86/BulkStorage
 modversion=1.0.0
 versionMin=42.19
+versionMax=42.19
 loadModAfter=
 incompatible=

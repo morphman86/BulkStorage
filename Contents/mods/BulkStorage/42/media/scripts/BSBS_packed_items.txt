@@ -1,19 +1,14 @@
 module BSBS
 {
-    imports
-    {
-        Base
-    }
-
     item TinnedBeans_Carton
     {
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedBolognese_Carton
@@ -21,21 +16,21 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
-    item CannedCarrots2_Carton
+    item CannedCarrots_Carton
     {
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedChili_Carton
@@ -43,10 +38,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedCornedBeef_Carton
@@ -54,10 +49,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedCorn_Carton
@@ -65,10 +60,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedFruitCocktail_Carton
@@ -76,10 +71,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedFruitBeverage_Carton
@@ -87,10 +82,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedMilk_Carton
@@ -98,10 +93,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedMushroomSoup_Carton
@@ -109,10 +104,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedPeaches_Carton
@@ -120,10 +115,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedPeas_Carton
@@ -131,10 +126,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedPineapple_Carton
@@ -142,21 +137,21 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
-    item CannedPotato2_Carton
+    item CannedPotato_Carton
     {
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item CannedSardines_Carton
@@ -164,10 +159,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item TinnedSoup_Carton
@@ -175,21 +170,21 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
-    item CannedTomato2_Carton
+    item CannedTomato_Carton
     {
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item TunaTin_Carton
@@ -197,10 +192,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item Dogfood_Carton
@@ -208,10 +203,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item MysteryCan_Carton
@@ -219,10 +214,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item DentedCan_Carton
@@ -230,10 +225,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item WaterRationCan_Carton
@@ -241,10 +236,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
     item Macandcheese_Carton
@@ -252,10 +247,10 @@ module BSBS
         DisplayCategory = Food,
         ItemType = base:normal,
         Weight = 32.0,
-        Icon = Parcel_Large_Food,
-        WorldStaticModel = Parcel_Food_Large,
+        Icon = Parcel_Large_Hardware,
+        WorldStaticModel = Parcel_Hardware_Large,
         Tags = base:hasmetal;base:ignorezombiedensity,
-        DoubleClickRecipe = OpenCarton12OfCannedFood,
+        DoubleClickRecipe = BSBS.OpenCarton12OfCannedFood,
     }
 
 }
